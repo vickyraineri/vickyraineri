@@ -24,5 +24,5 @@
 </br>
 
 ## 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/victoria-raineri-657b64246/"><img src="https://user-images.githubusercontent.com/23558201/195188682-7f4c8053-c9ef-479c-b28b-26225f299e5e.png" width="50" heigth="50"></img></a>
-<a href="mailto:vickyraineri04@gmail.com"><img src="https://user-images.githubusercontent.com/23558201/195395839-f9afb6ec-f458-4edb-bfe0-64c2b88b4d7e.png" width="50" heigth="50"></img></a>
+<a href="https://www.linkedin.com/in/victoria-raineri-657b64246/"><img width="45px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+<a href="mailto:vickyraineri04@gmail.com"><img width="57px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png"/></a>
